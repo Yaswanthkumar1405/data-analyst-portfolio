@@ -26,7 +26,7 @@ Planned topics include:
 
 ## 📄 Resume
 
-[Download My Resume (PDF)]([https://your-resume-link.com](https://drive.google.com/file/d/1cSZ_kYu-9LuPjVyqf4-ww8cYiJS3f4rJ/view?usp=drive_link)) 
+[Download My Resume (PDF)](https://drive.google.com/file/d/1cSZ_kYu-9LuPjVyqf4-ww8cYiJS3f4rJ/view?usp=drive_link) 
 
 ---
 
